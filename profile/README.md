@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://media.imgcdn.org/repo/2023/10/mac-octoparse/652e344c04dbf-mac-octoparse-Icon.webp" width="200" alt="Octoparse application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/octoparse">
+<a href="https://ysids-apps-hub.github.io/.github/octoparse">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Octoparse macOS product page">
 </a><br><br>
 <div align="center">
